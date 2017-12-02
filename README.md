@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>rep1/README.md at f7ea5b65cb089118d44bb964ef7fa2d8feddb060 · teddy66/rep1</title>
+  <title>rep1/README.md at master · teddy66/rep1</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars0.githubusercontent.com/u/34034495?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="teddy66/rep1" property="og:title" /><meta content="https://github.com/teddy66/rep1" property="og:url" /><meta content="rep1 - first test proj" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjI1ODI2NjQyOjg5NWE0ZTY3NTkxYmI0ZDMzNjliMDc3YTA5ZGY4MzdjYzg1YWFkN2E4ZDU1ODc1MGRjMzk0OTI4YTAyYTlhN2M=--95af886d0b2fe8ecc4c4902baf153f2cdfae2a87">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjI1ODI2NjQyOjBjMjg3MGZlMzM4N2IyNmM3NDY0MjhjMDQyMzNiYzEzNDIwMzk2MjU3NDk4OTA5Y2MzMjdkMTlkZDNiNGE3MjQ=--5c73a9d03dccddceaa8e126d937c3b0a9f69c933">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="1AC1:28E6:96570D:102532F:5A22EB67" data-pjax-transient>
+  <meta name="request-id" content="1BD3:28E6:9AC3D7:109CA61:5A22F31D" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -49,7 +49,7 @@
 <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="1AC1:28E6:96570D:102532F:5A22EB67" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="34034495" name="octolytics-actor-id" /><meta content="teddy66" name="octolytics-actor-login" /><meta content="c9fe6b31174c9e08e56382bb1a65152c55b787eadca61a832134398f9537a16c" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="1BD3:28E6:9AC3D7:109CA61:5A22F31D" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="34034495" name="octolytics-actor-id" /><meta content="teddy66" name="octolytics-actor-login" /><meta content="c9fe6b31174c9e08e56382bb1a65152c55b787eadca61a832134398f9537a16c" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -64,7 +64,7 @@
   <meta name="user-login" content="teddy66">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MDM2ZTg3YzBhZTJjYWExNzg5NjZhNWEwZTc4ZjMxYTFjMTAwMDczNDA1YTJmYTYyM2JlM2ZhNmI3YTY1NGIyYnx7InJlbW90ZV9hZGRyZXNzIjoiMTc2LjU5LjM3LjExIiwicmVxdWVzdF9pZCI6IjFBQzE6MjhFNjo5NjU3MEQ6MTAyNTMyRjo1QTIyRUI2NyIsInRpbWVzdGFtcCI6MTUxMjIzNzkyNywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="OThiYmUxNmQwYjIyYzFmNDM4Y2Q4YjdiYjAwNWVhNzU3Mjk2MzNkMjA0OTVhNDkyMjMzMDBhMWEyMTJjODZkYXx7InJlbW90ZV9hZGRyZXNzIjoiMTc2LjU5LjM3LjExIiwicmVxdWVzdF9pZCI6IjFCRDM6MjhFNjo5QUMzRDc6MTA5Q0E2MTo1QTIyRjMxRCIsInRpbWVzdGFtcCI6MTUxMjIzOTkwMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
@@ -73,7 +73,7 @@
   <meta http-equiv="x-pjax-version" content="61c05d23545f26764725f429e94cfab4">
   
 
-      <link href="https://github.com/teddy66/rep1/commits/f7ea5b65cb089118d44bb964ef7fa2d8feddb060.atom" rel="alternate" title="Recent Commits to rep1:f7ea5b65cb089118d44bb964ef7fa2d8feddb060" type="application/atom+xml">
+      <link href="https://github.com/teddy66/rep1/commits/master.atom" rel="alternate" title="Recent Commits to rep1:master" type="application/atom+xml">
 
   <meta name="description" content="rep1 - first test proj">
   <meta name="go-import" content="github.com/teddy66/rep1 git https://github.com/teddy66/rep1.git">
@@ -81,7 +81,7 @@
   <meta content="34034495" name="octolytics-dimension-user_id" /><meta content="teddy66" name="octolytics-dimension-user_login" /><meta content="112858489" name="octolytics-dimension-repository_id" /><meta content="teddy66/rep1" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="112858489" name="octolytics-dimension-repository_network_root_id" /><meta content="teddy66/rep1" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/teddy66/rep1/blob/f7ea5b65cb089118d44bb964ef7fa2d8feddb060/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/teddy66/rep1/blob/master/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/search" class="js-site-search-form" data-scoped-search-url="/teddy66/rep1/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/teddy66/rep1/blob/f7ea5b65cb089118d44bb964ef7fa2d8feddb060/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/teddy66/rep1/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -250,7 +250,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zvOfvAEG0ixbaaEADiuic2Tg12TmV4+OEfTBRWn/bnoruBjLqhaStVaW2JsIwndatniq/yamfUP0Py4wvW6IPA==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="EWu1o60BB5icIlaeBZPufOAxQpQ3TiFtlDrKVDVxLgr0IDLUBhFHAZHdLwUDejtVMqk/D/e/06Bx8SUh4eDITA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -261,7 +261,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jFzIEe8I3KheUPJW460rWkOPNqzRdS+Tih9sKuQpE0FpF09mRBicMVOvi83lRP5zkRdLNxGE3V5v1INfMLj1Bw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1ypGQVLJ4W1h7+vjiOxeqtIIcl4GHRVcvhNhqKkcdOsyYcE2+dmh9GwQkniOBYuDAJAPxcbs55Fb2I7dfY2SrQ==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -296,7 +296,7 @@
 
       <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Uyiy9/aYuqrLvTStzeWIZagKoXLAS6bpdQlA+LIhvtVBzedIcaIfFDQWDad+GaGVEEyzuGnlDWxcnYRAeUYT/w==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="112858489" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="9/1PmrijgsuFxqNTCN/Cvui174lS6j114x2aUMUUU+vlGBolP5kndXptmlm7I+tOUPP9Q/tElvDKiV7oDnP+wQ==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="112858489" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/teddy66/rep1/subscription"
@@ -376,7 +376,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fRgry9ILxevRXPnmc5NnIAmVH9gGldsIZhPNrCaWIDRKavC1GYcvcVHRUvWVj/Zln+ot+zOBikHR6Ak44H3tSg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3GxGWXyQOEEFbZpQbd1GEdWbkaoqAEsr+3RAYKHdCSLrHp0ntxzS24XgMUOLwddUQ+SjiR8UGmJMj4T0ZzbEXA==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -391,7 +391,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dOOfJkJnJl78hgXAgxpWtPXXfOMeCDNch65Y0ixalyQSmFsqd7WLopV9jul/dkdwfHlgc0Rlv3WJZ5oFv6GWSw==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rRBAYud8iYk6t/OqDQOMPF9xSPisth2Ft2AwmxT5JJjLa4Ru0q4kdVNMeIPxb5341t9UaPbbkay5qfJMhwIl9w==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -410,7 +410,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qoXpRsEthdpKqlNSXz0mkmZSpCaq6SVIPUrWR51r/evzLsSEanr6h02Y1t/pHZTtYYdjUGgRyj740pee14VDTw==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BtnkVg9d1UiYi6VhisKoBDHLou7HU++MHtswOv+ZsvJfcsmUpAqqFZ+5IOw84hp7Nh5lmAWrAPrbQ3HjtXcMVg==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -504,8 +504,8 @@
   <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
-      <i>Tree:</i>
-      <span class="js-select-button css-truncate-target">f7ea5b65cb</span>
+      <i>Branch:</i>
+      <span class="js-select-button css-truncate-target">master</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
@@ -537,7 +537,7 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open "
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
                href="/teddy66/rep1/blob/master/README.md"
                data-name="master"
                data-skip-pjax="true"
@@ -549,14 +549,14 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="D4CatrA5M/GIZBNRGQ8yz2n60t11Rm7pB7n/e1Gph64MFVe0z/BHJo8VNchc3tKtF7Hqn6OG3Z3v8CAZtInMbA==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="B3wJmo/MYfdm1wiBbH1FWwDp2HQDykSbvi++O1gvGHcE6cSY8AUVIGGmLhgprKU5fqLgNtUK9+9WZmFZvQ9TtQ==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘f7ea5b6’</span>
+              <span class="description">from ‘master’</span>
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="f7ea5b65cb089118d44bb964ef7fa2d8feddb060">
+            <input type="hidden" name="branch" id="branch" value="master">
             <input type="hidden" name="path" id="path" value="README.md">
 </form>
       </div>
@@ -575,7 +575,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/teddy66/rep1/find/f7ea5b65cb089118d44bb964ef7fa2d8feddb060"
+      <a href="/teddy66/rep1/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -584,7 +584,7 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/teddy66/rep1/tree/f7ea5b65cb089118d44bb964ef7fa2d8feddb060"><span>rep1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/teddy66/rep1"><span>rep1</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
@@ -628,27 +628,29 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/teddy66/rep1/raw/f7ea5b65cb089118d44bb964ef7fa2d8feddb060/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/teddy66/rep1/blame/f7ea5b65cb089118d44bb964ef7fa2d8feddb060/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/teddy66/rep1/commits/f7ea5b65cb089118d44bb964ef7fa2d8feddb060/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/teddy66/rep1/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/teddy66/rep1/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/teddy66/rep1/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
-        <button class="btn-octicon disabled tooltipped tooltipped-nw"
-           type="button"
-           disabled
-           aria-label="You must be on a branch to open this file in GitHub Desktop">
+        <a class="btn-octicon tooltipped tooltipped-nw"
+           href="https://desktop.github.com"
+           aria-label="Open this file in GitHub Desktop"
+           data-ga-click="Repository, open with desktop, type:windows">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-        </button>
+        </a>
 
-        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
-          aria-label="You must be on a branch to make or propose changes to this file">
-          <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-        </button>
-        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
-          aria-label="You must be on a branch to make or propose changes to this file">
-          <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-        </button>
-  </div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="XcGUvtd/IH1+JViJuDYhlYVhUZV1FcnR6Qgl3lR7cLbBxAEeiTXxogsdA9b79IqPWDKiauKJMZfo8wXk7ZNkZg==" /></div>
+          <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+            aria-label="Edit this file" data-hotkey="e" data-disable-with>
+            <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+          </button>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/teddy66/rep1/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="BkJ6SageQ0Hik5xeAqv2wrbuDAa9kEBdf4iWHCQMrxQMZ28jTecPJT4JxPZW+I7eODh06R9wjQ9ZLNZQ5rRuSA==" /></div>
+          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
+            aria-label="Delete this file" data-disable-with>
+            <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+</form>  </div>
 
   <div class="file-info">
       3 lines (2 sloc)
@@ -686,7 +688,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.13394s from unicorn-608955660-xjxgr">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.15853s from unicorn-954199310-5zfdd">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
